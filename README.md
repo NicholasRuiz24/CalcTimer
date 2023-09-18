@@ -1,2 +1,5 @@
 # CalcTimer
-Program to time how long it takes to caclulate ...
+Program to time how long it takes to calculate ...
+
+Results here:
+Bulleted List
